@@ -1,0 +1,2 @@
+﻿# RF Powered Sensor Transceiver App
+This is an application for controlling a ThingMagic M6E Nano RFID reader. Specifically the reader is intended to read from one of our RF Powered Sensor Interface tags. 
